@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d40392e-acaa-4fab-84da-4d54a8967af1" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/AuthTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fdsfsd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Updatecompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Updatecompanycode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuthTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuthTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +53,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AuthTest.test1">
+  <component name="RunManager" selected="JUnit.AuthTest">
+    <configuration name="AuthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AuthTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AuthTest.successrwrs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tests" />
       <option name="PACKAGE_NAME" value="" />
@@ -83,8 +91,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AuthTest.test1" />
+        <item itemvalue="JUnit.AuthTest" />
         <item itemvalue="JUnit.AuthTest.successrwrs" />
+        <item itemvalue="JUnit.AuthTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +107,7 @@
       <updated>1666165313554</updated>
       <workItem from="1666165315453" duration="2193000" />
       <workItem from="1666168860083" duration="2529000" />
-      <workItem from="1666176583281" duration="1979000" />
+      <workItem from="1666176583281" duration="4316000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1666166341228</created>
@@ -107,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666166341228</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1666180989184</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666180989184</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
